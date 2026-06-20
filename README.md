@@ -4,7 +4,7 @@ A curated collection of aesthetic, anime, and ultrawide wallpapers for desktop c
 
 ## 🎥 Preview
 
-<video src="showcase.mp4" controls></video>
+[Watch showcase](./showcase.mp4)
 
 ## 📂 Collections
 
